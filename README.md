@@ -5,7 +5,7 @@ This repo is mainly for mastering in code optimization starting from beginner le
 ## 📂 Solutions Included
 | Challenge Name | Platform | Solution Link | Normal Complexity | Optimal Complexity |
 | :--- | :--- | :--- | :---| :---|
-| [Perfect Number](https://leetcode.com/problems/perfect-number) | LeetCode | [View Code](./PerfectNumber.java) | O($\sqrt{n}$) |
+| [Perfect Number](https://leetcode.com/problems/perfect-number) | LeetCode | [View Code](./PerfectNumber.java) | O($\sqrt{n}$) | O(1) |
 
 "Simplicity is the soul of efficiency." — Austin Freeman
 
