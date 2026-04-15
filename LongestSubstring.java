@@ -1,5 +1,5 @@
 //Visit problem statement in website(through link given in readme)
-//Solution part
+//Solution part - Using Sliding window concept
 class Solution {
     public int lengthOfLongestSubstring(String s) 
     {
